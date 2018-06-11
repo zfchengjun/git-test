@@ -1,6 +1,12 @@
 ﻿
 /*===
-v1 ---this is the vision1.
+v2 ---this is the vision2.
+===*/
+Hello World!
+soga-v2,神马玩意？
+
+/*===
+v1 ---this is the vision1. ======>don't use.
 ===*/
 Hello World!
 soga-v1,神马玩意？

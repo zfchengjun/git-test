@@ -1,0 +1,6 @@
+﻿
+/*===
+v1 ---this is the vision1.
+===*/
+Hello World!
+soga-v1,神马玩意？

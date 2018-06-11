@@ -1,9 +1,10 @@
 ﻿
 
-update date: 2018/06/11
-description: test vision1.
+update date: 2018/06/11 15:40
+description: test vision2.
 author by zf.
 
 
 content:
 This is the file named git2.txt.
+I will add one word.
